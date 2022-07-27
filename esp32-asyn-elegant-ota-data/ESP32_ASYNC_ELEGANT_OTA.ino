@@ -19,8 +19,8 @@
 #include <AsyncElegantOTA.h>
 
 // Replace with your network credentials
-const char* ssid = "Virus_13_2g";
-const char* password = "259731gui";
+const char* ssid = "XXXX";
+const char* password = "XXXX";
 
 bool ledState = 0;
 const int ledPin = 12;
